@@ -57,11 +57,18 @@ their opponent moves again.
 **Features:**
 
 •	Board, disks, and state representation
+
 •	Updating and printing board after each move
+
 •	Player switching (human vs. computer)
+
 •	Representing possible move
+
 •	Utility function
+
 •	Difficulty levels (easy, medium, hard)
+
 •	Alpha-beta pruning algorithm
+
 
 

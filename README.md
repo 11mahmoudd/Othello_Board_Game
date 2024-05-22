@@ -64,8 +64,6 @@ their opponent moves again.
 
 •	Representing possible move
 
-•	Utility function
-
 •	Difficulty levels (easy, medium, hard)
 
 •	Alpha-beta pruning algorithm
